@@ -1,2 +1,1 @@
-# WhatImLearning
-A log of what I'm currently tinkering with.
+-- semantic nature of npm for managing version system
