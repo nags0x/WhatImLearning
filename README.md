@@ -4,6 +4,7 @@
 - mobile_first approach -> https://tailgrids.com/blog/learn-tailwind-css-mastering-responsive-design ✅ <br>
 - Ts_to_Go -> https://youtu.be/pNlq-EVld70?si=4lBoHhRQ9xDA6JDS
 - Screenpipe -> https://screenpi.pe/ (hack-https://www.sprint.dev/hackathons/screenpipecomputeruse)
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting
 
 
 ## Disclaimer  
