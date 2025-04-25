@@ -7,6 +7,7 @@
 - MDN_docs:
 - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting
 - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Network_requests
+- Java: Inheritance and Polymorphism/ Abstract Class and Interface/ Nested Class and Lambda Expressions/ Date Classes/ Exceptions and Assertions/ I/O Fundamentals/ Generics
 
 
 ## Disclaimer  
