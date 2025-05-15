@@ -10,6 +10,7 @@
 - Java: Inheritance and Polymorphism/ Abstract Class and Interface/ Nested Class and Lambda Expressions/ Date Classes/ Exceptions and Assertions/ I/O Fundamentals/ Generics ✅
 - Java: Collections nd Database Programming ✅
 - DBMS_Sprint
+- arb_Bot - https://www.youtube.com/watch?v=Mi0QycA81go&t=3873s
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
