@@ -13,6 +13,7 @@
 - arb_Bot - https://www.youtube.com/watch?v=Mi0QycA81go&t=3873s
 - RandomExpressDocs - https://expressjs.com/en/guide/using-middleware.html
 - CS221: https://youtu.be/J8Eh7RqggsU?si=wOGskr8xtBn3siUz
+- summerPepGokboru - https://youtu.be/p00kRILZT38?si=9HMsW5omtNh0849e
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
