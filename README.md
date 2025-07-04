@@ -14,6 +14,9 @@
 - RandomExpressDocs - https://expressjs.com/en/guide/using-middleware.html
 - CS221: https://youtu.be/J8Eh7RqggsU?si=wOGskr8xtBn3siUz
 - summerPepGokboru - https://youtu.be/p00kRILZT38?si=9HMsW5omtNh0849e
+- Andrej Karpathy yc_talk - https://www.youtube.com/watch?v=LCEmiRjPEtQ
+
+
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
