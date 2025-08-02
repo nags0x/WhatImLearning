@@ -16,6 +16,7 @@
 - summerPepGokboru - https://youtu.be/p00kRILZT38?si=9HMsW5omtNh0849e
 - Andrej Karpathy yc_talk - https://www.youtube.com/watch?v=LCEmiRjPEtQ
 - rs_By_ex - https://doc.rust-lang.org/rust-by-example
+- https://youtu.be/qP7LzZqGh30?si=9R2rbDPCtM_w30C2
 
 
 ## hacks
