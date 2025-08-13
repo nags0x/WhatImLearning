@@ -17,8 +17,7 @@
 - Andrej Karpathy yc_talk - https://www.youtube.com/watch?v=LCEmiRjPEtQ
 - rs_By_ex - https://doc.rust-lang.org/rust-by-example
 - https://youtu.be/qP7LzZqGh30?si=9R2rbDPCtM_w30C2
-
-
+- brickStone for fast.com - https://netflixtechblog.com/building-fast-com-4857fe0f8adb
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
