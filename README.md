@@ -20,6 +20,7 @@
 - https://youtu.be/qP7LzZqGh30?si=9R2rbDPCtM_w30C2
 - brickStone for fast.com - https://netflixtechblog.com/building-fast-com-4857fe0f8adb
 - money x hyperinflation //firstPrinciplesThinking - https://chatgpt.com/share/68b5a95a-860c-8006-939c-c5647a29b557
+- xxd_dumper - https://www.geeksforgeeks.org/linux-unix/xxd-command-in-linux
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
