@@ -21,6 +21,7 @@
 - brickStone for fast.com - https://netflixtechblog.com/building-fast-com-4857fe0f8adb
 - money x hyperinflation //firstPrinciplesThinking - https://chatgpt.com/share/68b5a95a-860c-8006-939c-c5647a29b557
 - xxd_dumper - https://www.geeksforgeeks.org/linux-unix/xxd-command-in-linux
+- kinda rewriting tcp/ a better file transfer system - https://www.notion.so/tinker_tcp-2a41ffb6c9198035b1dffca442e7ccf1?source=copy_link
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
