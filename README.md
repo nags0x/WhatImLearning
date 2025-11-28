@@ -24,6 +24,8 @@
 - kinda rewriting tcp/ a better file transfer system - https://www.notion.so/tinker_tcp-2a41ffb6c9198035b1dffca442e7ccf1?source=copy_link
 - webTransport for hack - https://developer.mozilla.org/en-US/docs/Web/API/WebTransport
 - socketIo webtransport - https://socket.io/get-started/webtransport
+- gql - https://graphql.org/learn/
+- https://gist.github.com/MichaelCurrin/f8a7a11451ce4ec055d41000c915b595
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
