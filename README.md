@@ -26,6 +26,7 @@
 - socketIo webtransport - https://socket.io/get-started/webtransport
 - gql - https://graphql.org/learn/
 - https://gist.github.com/MichaelCurrin/f8a7a11451ce4ec055d41000c915b595
+- https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
