@@ -27,6 +27,8 @@
 - gql - https://graphql.org/learn/
 - https://gist.github.com/MichaelCurrin/f8a7a11451ce4ec055d41000c915b595
 - https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/
+- drizzle-zod-migration - https://orm.drizzle.team/docs/zod
+- vitest-migration - https://vitest.dev/guide/migration.html
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
