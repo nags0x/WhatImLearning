@@ -29,6 +29,7 @@
 - https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/
 - drizzle-zod-migration - https://orm.drizzle.team/docs/zod
 - vitest-migration - https://vitest.dev/guide/migration.html
+- prep-qc-automatin-samsung-oa-20Jan - https://www.notion.so/prep-qc-automatin-samsung-oa-20Jan-2ed1ffb6c919804da7ebe2b9fd9c19c5?source=copy_link
 ## hacks
 https://www.notion.so/hacks-1f21ffb6c91980ef987df73a27a07e78?pvs=4
 
